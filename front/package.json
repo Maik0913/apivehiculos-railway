@@ -1,0 +1,8 @@
+{
+  "name": "apivehiculos-front",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx serve -s . -l tcp://0.0.0.0:$PORT"
+  }
+}
