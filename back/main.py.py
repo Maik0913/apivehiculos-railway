@@ -19,7 +19,7 @@ app = FastAPI(title="Vehicle Specs API")
 # cuando la tengas, ej: "https://api-vehiculos.vercel.app"
 ALLOWED_ORIGINS = [
     "http://localhost:55283",
-    "http://localhost:3000",
+    "http://localhost:8080",
     "http://127.0.0.1:5500",
     "https://apivehiculos.vercel.app",
     "https://apivehiculos-railway-production.up.railway.app",
